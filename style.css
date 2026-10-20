@@ -51,7 +51,10 @@ a { color: var(--accent); }
 .home main > h2 { margin-top: 3rem; }
 .home main > p { max-width: 38rem; }
 .lede { font-size: 1.25rem; }
-.store { color: var(--muted); }
+.store { color: var(--muted); margin-top: 1.5rem; }
+.store a { display: inline-block; padding: 12px 0; }
+.store img { display: block; height: 48px; width: auto; }
+.store p { margin: 0; }
 .hero {
   display: block;
   width: 100%;
