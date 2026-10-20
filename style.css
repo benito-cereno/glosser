@@ -71,7 +71,7 @@ a { color: var(--accent); }
   align-items: center;
   margin: 4rem 0;
 }
-.feature ul { max-width: 30rem; }
+.feature ul, .feature p { max-width: 30rem; }
 .feature > .screen { justify-self: center; }
 .screens { display: flex; gap: 1rem; }
 .screen {
